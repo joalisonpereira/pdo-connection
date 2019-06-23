@@ -1,3 +1,3 @@
 # PDO Connection
 
-Classe para conexão com banco de dados utilizando PDO.
+Class for connection to database using PDO.
